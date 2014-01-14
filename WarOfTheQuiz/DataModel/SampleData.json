@@ -1,0 +1,69 @@
+{"Groups":[
+  {
+    "UniqueId": "istorie",
+    "Title": "Istorie",
+    "Subtitle": "",
+    "ImagePath": "Assets/istorie.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      
+    ]
+  },
+  {
+    "UniqueId": "geografie",
+    "Title": "Geografie",
+    "Subtitle": "",
+    "ImagePath": "Assets/geografie.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+     
+    ]
+  },
+  {
+    "UniqueId": "it",
+    "Title": "IT",
+    "Subtitle": "",
+    "ImagePath": "Assets/tehnologie.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+     
+    ]
+  },
+  {
+    "UniqueId": "matematica",
+    "Title": "Matematica",
+    "Subtitle": "",
+    "ImagePath": "Assets/matematica.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+     
+    ]
+  },
+  {
+    "UniqueId": "sport",
+    "Title": "Sport",
+    "Subtitle": "",
+    "ImagePath": "Assets/sport.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      
+    ]
+  },
+  {
+    "UniqueId": "tot",
+    "Title": "Toate categoriile",
+    "Subtitle": "",
+    "ImagePath": "Assets/all.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      
+    ]
+  }
+]
+}
