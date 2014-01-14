@@ -35,7 +35,7 @@ namespace WarOfTheQuiz
         public static int appColor=0;
         public static MobileServiceClient MobileService = new MobileServiceClient(
     "https://smartapps.azure-mobile.net/",
-    "DYQvYyKFPdYHpzJkInfNlXtCJuihos95"
+    "fishFingersAndCustard-getYourOwnKey"
 );
         public static MobileServiceClient mobileService
         {
